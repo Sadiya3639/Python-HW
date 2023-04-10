@@ -21,4 +21,10 @@ hira={"Hira Akter","Barishal","Khulna Mohila Polytechnic Institute","017********
 nadiya={"Nadiya Khatun","Mongla","Khulna Govt. Girls College","019********","27-05-2001"}
 tamanna={"Tamanna Akter Joti","Khulna","Khulna Mohila Polytechnic Institute","017********","19-10-2003"}
 
+Profile(sadiya)
+Profile(aysha)
 Profile(shanto)
+Profile(sonia)
+Profile(hira)
+Profile(nadiya)
+Profile(tamanna)
